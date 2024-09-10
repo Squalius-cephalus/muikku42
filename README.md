@@ -5,7 +5,7 @@ Muikku42 is a RP2040 Zero based 42-key column staggered split keyboard. The main
 
 PCB is designed for MX style 5-pin switches. PCB is reversible and same PCB design can be used as bottom plate.
 
-![](https://raw.githubusercontent.com/Squalius-cephalus/silakka54/main/muikku42_render.png)
+![](https://raw.githubusercontent.com/Squalius-cephalus/muikku42/main/muikku42_render.png)
 
 ***PCB design has not been tested. This is more of a concept than a real product. Current gerber-files should work just fine, but I still recommend checking for errors.***
 
@@ -28,7 +28,7 @@ QMK firmware is in the works.
 
 Many PCB manufacturers have a minium order quantity of 5 pcs.
 ## More info
-![](https://raw.githubusercontent.com/Squalius-cephalus/silakka54/main/info.png)
+![](https://raw.githubusercontent.com/Squalius-cephalus/muikku42/main/info.png)
 ### TODO
 1. Create firmware
 2. Build guide
