@@ -15,6 +15,7 @@ QMK firmware is in the works.
 |Part | Quantity |
 |--|--|
 | 5-pin MX compatible keyswitch | 42 |
+| Kailh MX compatible hotswap socket | 42 |
 | MX compatible 1u keycap | 42 |
 | 2mm rubber feet | 16 |
 | PCB | 2 |
