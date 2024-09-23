@@ -5,7 +5,7 @@ Muikku42 is a Raspberry Pi Pico based 42-key column staggered split keyboard. Th
 
 PCB is designed for MX style 5-pin switches, but with optional plate 3-pin switches can be used. PCB is reversible and same PCB design can be used as bottom plate.
 
-![](https://raw.githubusercontent.com/Squalius-cephalus/muikku42/main/muikku42_render.png)
+![](https://github.com/Squalius-cephalus/muikku42/blob/main/muikku42_render.png)
 
 ***PCB design has not been tested. This is more of a concept than a real product. Current gerber-files should work just fine, but I still recommend checking for errors.***
 
