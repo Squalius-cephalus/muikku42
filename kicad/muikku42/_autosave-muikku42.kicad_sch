@@ -2891,7 +2891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 36.83 81.28 0)
 			(effects
 				(font
@@ -2959,7 +2959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 86.36 45.72 0)
 			(effects
 				(font
@@ -3027,7 +3027,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 55.88 63.5 0)
 			(effects
 				(font
@@ -3095,7 +3095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 76.2 45.72 0)
 			(effects
 				(font
@@ -3163,7 +3163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 76.2 63.5 0)
 			(effects
 				(font
@@ -3231,7 +3231,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 46.99 81.28 0)
 			(effects
 				(font
@@ -3299,7 +3299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 45.72 45.72 0)
 			(effects
 				(font
@@ -3367,7 +3367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 55.88 45.72 0)
 			(effects
 				(font
@@ -3435,7 +3435,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 66.04 26.67 0)
 			(effects
 				(font
@@ -3503,7 +3503,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 66.04 45.72 0)
 			(effects
 				(font
@@ -3571,7 +3571,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 86.36 26.67 0)
 			(effects
 				(font
@@ -3639,7 +3639,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 55.88 26.67 0)
 			(effects
 				(font
@@ -3707,7 +3707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 66.04 63.5 0)
 			(effects
 				(font
@@ -3775,7 +3775,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 76.2 26.67 0)
 			(effects
 				(font
@@ -3843,7 +3843,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 35.56 63.5 0)
 			(effects
 				(font
@@ -3911,7 +3911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 35.56 26.67 0)
 			(effects
 				(font
@@ -3979,7 +3979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 35.56 45.72 0)
 			(effects
 				(font
@@ -4123,7 +4123,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 57.15 81.28 0)
 			(effects
 				(font
@@ -4458,7 +4458,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 45.72 63.5 0)
 			(effects
 				(font
@@ -4526,7 +4526,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 86.36 63.5 0)
 			(effects
 				(font
@@ -4594,7 +4594,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:CherryMX_MidHeight_Hotswap"
+		(property "Footprint" "ScottoKeebs_Cutout:Cutout_MX_1.00u"
 			(at 45.72 26.67 0)
 			(effects
 				(font
